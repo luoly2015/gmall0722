@@ -6,4 +6,9 @@ package com.atguigu.gmall;
  * @date 2019/12/11 15:22
  */
 public class HelloGit {
+
+    public void hello(){
+        System.out.println("hello,git I am from dev4.0.1");
+    }
 }
+
